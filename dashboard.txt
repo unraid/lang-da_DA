@@ -1,7 +1,7 @@
 %s used of %s %s %%=%s used of %s (%s %%)
 ---=
 Active tunnels=
-Activity=
+Activity=aktivitet
 ago=
 Airflow=
 All Apps=
