@@ -621,3 +621,11 @@ minutes=
 second=
 seconds=
 ago=
+
+; New entries - 2021-03-14
+Cache=
+NFS=
+Please try a different browser=
+SMB=
+Sorry, this feature is not supported by MSIEEdge=Sorry, this feature is not supported by MSIE/Edge
+Unsupported Feature=

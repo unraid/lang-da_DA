@@ -298,3 +298,11 @@ Wrong key=
 xfs_repair status=
 You may not add new disks and also remove existing disks=
 your server=
+
+; New entries - 2021-03-14
+completed=
+Invalid, missing or expired=
+SMART controller type=
+SMART notification tolerance level=
+SMART self-test in progress=
+This Unraid OS release has been withdrawn and may no longer be used Please=This Unraid OS release has been withdrawn and may no longer be used. Please
