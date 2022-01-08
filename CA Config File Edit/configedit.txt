@@ -11,4 +11,4 @@ Credits=
 No Backup File Found=
 File Format=
 
-; Note: December 16, 2021 - 12 missing translations
+; Note: January 8, 2022 - 12 missing translations
