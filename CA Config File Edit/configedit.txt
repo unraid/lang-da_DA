@@ -1,14 +1,14 @@
-Select File=
-Error reading file=
-No Backup File Found=
-Select a file to edit=
-note editing a binary file could have unintended consequences=
-No file selected=
-Backup File=
-Editing=
-Generally, it is not recommended to change the format=
+Select File=Vælg Fil
+Error reading file=Fejl ved læsning af fil
+No Backup File Found=Ingen Backup Fil Fundet
+Select a file to edit=Vælg en fil, der skal redigeres
+note editing a binary file could have unintended consequences=bemærk, at redigering af en binær fil kan have utilsigtede konsekvenser
+No file selected=Ingen fil valgt
+Backup File=Backup Fil
+Editing=Redigerer
+Generally, it is not recommended to change the format=Generelt anbefales det ikke at ændre formatet
 Credits=
-No Backup File Found=
-File Format=
+No Backup File Found=Ingen Backup Fil Fundet
+File Format=Fil Format
 
-; Note: May 7, 2022 - 12 missing translations
+; Note: May 7, 2022 - 1 missing translations
