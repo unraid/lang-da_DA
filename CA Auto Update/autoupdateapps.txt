@@ -1,21 +1,21 @@
-Docker Auto Update Settings=
-Plugin Auto Update Settings=
+Docker Auto Update Settings=Docker Auto Opdater Indstillinger
+Plugin Auto Update Settings=Plugin Auto Opdater Indstillinger
 Autoupdate ON=
 Autoupdate OFF=
-Send Notifications On Update=
-Delay in days before updating applications=
-Auto Update All Plugins=
+Send Notifications On Update=Send Meddelelser Ved Opdatering
+Delay in days before updating applications=Forsinkelse i dage før opdatering af applikationer
+Auto Update All Plugins=Opdater Alle Plugins Automatisk
 Update Check Frequency=
 Support=
-Day Of Week=
-Day Of Month=
-Hour=
-Minute=
+Day Of Week=Ugedag
+Day Of Month=Dag i Måneden
+Hour=Time
+Minute=Minut
 Custom cron expression=
 Credits=
-Docker Must Be Enabled For This Module To Operate=
+Docker Must Be Enabled For This Module To Operate=Docker Skal Være Aktiveret For At Dette Modul Kan Fungere
 Time to wait for graceful stop before killing=
-Update All Docker Applications=
-Do not overlap with autoupdate=
+Update All Docker Applications=Opdater Alle Docker Applikationer
+Do not overlap with autoupdate=Overlap ikke med autoopdatering
 
 ; Note: May 7, 2022 - 19 missing translations
