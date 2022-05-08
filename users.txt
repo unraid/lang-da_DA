@@ -18,11 +18,11 @@ Restore default image=Gendan standard billede
 Retype password=Gentag adgangskode
 Save=Gem
 Shares Access=
-Show Hide password=Show / Hide password
-SSH authorized keys=
-Syntax of the key is incorrect=
+Show Hide password=Vis / Skjul adgangskode
+SSH authorized keys=SSH autoriserede nøgler
+Syntax of the key is incorrect=Syntaksen for nøglen er forkert
 Use a password up to 128 characters=Brug et adgangskode op til 128 tegn
-Use only lowercase letters, digits, underscores and dashes=
+Use only lowercase letters, digits, underscores and dashes=Brug kun små bogstaver, cifre, understregninger og bindestreger
 User %s has been deleted=Brugeren %s er blevet slettet
 User name=Brugernavn
 
