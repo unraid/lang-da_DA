@@ -2,7 +2,7 @@
 anonymous=Anonym
 Author=Udgiver
 Check For Updates=Søg Efter Opdateringer
-Checking connectivty=Tjekker forbindelse
+Checking connectivity=Tjekker forbindelse
 checking=tjekker
 Click here to install version %s=Klik her for at installere version %s
 Delete Plugin=Slet Plugin
