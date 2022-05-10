@@ -1,7 +1,7 @@
-A new version of %s is available=
+A new version of %s is available=En ny version af %a er tilgængelig
 Docker=
-Language=
-Notice %s - Version update %s=Notice [%s] - Version update %s
+Language=Sprog
+Notice %s - Version update %s=Varsel [%s] - Version opdatering %s
 Plugin=
 
 ; Note: May 7, 2022 - 4 missing translations
