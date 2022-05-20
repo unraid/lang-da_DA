@@ -423,7 +423,7 @@ year=år
 years=år
 Yes hidden=Ja (skjult)
 Yes Time Machine=Ja (Time Machine)
-Yes, I want to do this=Ja, jeg vil gerne gøre det her 
+Yes, I want to do this=Ja, jeg vil gerne gøre det her
 Yes=Ja
 yes=ja
 yesterday=i går
@@ -587,6 +587,7 @@ remaining=tilbage
 Remote access=Fjernadgang
 Replace Key=Udskift Nøgle
 Reset Password Now=Nulstil Adgangskode Nu
+Searching=
 Secure remote access=Sikker fjernadgang
 See also here=Se også her
 Server Offline=
@@ -692,7 +693,7 @@ Resend Email Verification Code=Gensend Emailbekræftelseskode
 We have sent a verifcation email to %s=Vi har sendt en bekræftelsesmail til %s
 You will no longer have access to this server using this url=Du vil ikke længere have adgang til denne server vha. <abbr title="%s" class="italic">dette url</abbr>
 
-; Dynamix File Manager - 2022-05-07
+; Dynamix File Manager - 2022-05-20
 %s year ago=%s år siden
 %s years ago=%s år siden
 Action=Handling
@@ -748,6 +749,7 @@ New file name=Nyt filnavn
 New folder name=Nyt mappenavn
 New owner=Ny ejer
 New permission=Ny tilladelse
+No results found=
 Not allowed to mix disk and user shares=
 Objects to change=
 Objects to copy=
@@ -766,6 +768,8 @@ Rename Folder=Omdøb Mappe
 rename to=omdøb til
 Renaming=Omdøber
 Save=Gem
+Search=
+Search string=
 Share name=Share navn
 SHARE=
 Source device=
@@ -805,7 +809,7 @@ Updating=Opdaterer
 year=år
 years=år
 
-; My Servers refactor - 2022-05-07
+; My Servers refactor - 2022-05-20
 
 A Trial key provides all the functionality of a Pro Registration key=
 All you need is an active internet connection, an Unraidnet account, and the <span>My Servers<span> plugin=All you need is an active internet connection, an Unraid.net account, and the <span class="inline-block">My Servers</span> plugin
@@ -845,6 +849,7 @@ Redeem Activation Code=Indløs aktiveringskode
 Registration keys are bound to your USB Flash boot device serial number GUID=Registreringsnøgler er bundet til din USB Flash startenheds serienummer (GUID)
 Remove My Servers plugin=Fjern My Servers plugin
 Removing My Servers plugin=Fjerner My Servers plugin
+Replace Key Ineligible=
 Restart unraid-api=Genstart unraid-api
 Restarting=Genstarter
 Sign In Up=Log På / Af
@@ -861,4 +866,4 @@ Your server will not be usable until you purchase a Registration key or install 
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Din Unraid registreringsnøgle er ikke kvalificeret til udskiftning, da den er sortlistet
 Oh no Are you pirating Unraid OS<br>Are you ready to buy a real license=Oh no! Are you pirating Unraid OS?<br>Are you ready to buy a real license?
 
-; Note: May 20, 2022 - 218 missing translations
+; Note: May 20, 2022 - 221 missing translations
