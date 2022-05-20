@@ -2,5 +2,3 @@ Enhanced System Log=Forbedret Systemlog
 Minor Issues=Mindre Problemer
 File System=Filsystem
 Drive Related=Drev relateret
-
-; Note: May 7, 2022 - 4 missing translations

@@ -6,7 +6,8 @@ will be updated after rebooting the server=Vil blive opdateret efter genstart af
 Enable Mitigations=Aktiver begrænsninger
 Disable Mitigations=Deaktiver begrænsninger
 Disable Security Mitigations A Reboot Is Required For Changes To Take Effect=Deaktiver sikkerhedsbegrænsninger En genstart er påkrævet, for at ændringer træder i kraft
+A Reboot Is Required For Changes To Take Effect=
 Mitigations will be enabled after a reboot=Afhjælpning vil blive aktiveret efter en genstart
 Mitigations will be disabled after a reboot=Afhjælpning vil blive deaktiveret efter en genstart
 
-; Note: May 7, 2022 - 11 missing translations
+; Note: May 20, 2022 - 2 missing translations
