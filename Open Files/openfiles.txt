@@ -21,4 +21,4 @@ Cannot get list of open files=Kan ikke hente en liste over åbne filer
 >Klik på 'Program', Proces ID', eller 'Filnavn og Sti' for at ændre sorteringsrækkefølgen.
 :end
 
-; Note: May 20, 2022 - 2 missing translations
+; Note: May 26, 2022 - 2 missing translations

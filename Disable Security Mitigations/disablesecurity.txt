@@ -10,4 +10,4 @@ A Reboot Is Required For Changes To Take Effect=
 Mitigations will be enabled after a reboot=Afhjælpning vil blive aktiveret efter en genstart
 Mitigations will be disabled after a reboot=Afhjælpning vil blive deaktiveret efter en genstart
 
-; Note: May 20, 2022 - 2 missing translations
+; Note: May 26, 2022 - 2 missing translations
