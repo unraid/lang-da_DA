@@ -4,4 +4,4 @@ Language=Sprog
 Notice %s - Version update %s=Varsel [%s] - Version opdatering %s
 Plugin=
 
-; Note: May 29, 2022 - 2 missing translations
+; Note: June 6, 2022 - 2 missing translations
