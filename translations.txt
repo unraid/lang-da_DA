@@ -685,7 +685,7 @@ Ignore this message if you are currently connected via Remote Access or VPN=Igno
 Automated flash backups will be disabled until you sign in again=Automatiske flash sikkerhedskopier vil blive deaktiveret, indtil du logger på igen
 Click to copy LAN IP %s=Klik for at kopiere LAN IP %s
 DNS issue, unable to resolve wanip4unraidnet=DNS problem, kan ikke løses wanip4.unraid.net
-Download latest backup from My Servers Dashboard=Download seneste sikkerhedskopi fra My Servers Dashboard
+Download latest backup from My Servers Dashboard before signing out=
 Have the code now Go Back=Har du koden nu? Gå tilbage
 LAN IP Copied=LAN IP Kopieret
 Remote access will be disabled=Fjernadgang vil blive deaktiveret
@@ -880,4 +880,4 @@ The My Servers plugin install is incomplete=
 Please uninstall and reinstall the My Servers plugin=
 Be sure to let the install complete before you close the window=
 
-; Note: June 25, 2022 - 228 missing translations
+; Note: August 13, 2022 - 229 missing translations
