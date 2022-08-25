@@ -880,4 +880,4 @@ The My Servers plugin install is incomplete=
 Please uninstall and reinstall the My Servers plugin=
 Be sure to let the install complete before you close the window=
 
-; Note: August 13, 2022 - 229 missing translations
+; Note: August 25, 2022 - 219 missing translations

@@ -286,4 +286,4 @@ is not unique (this is common with USB card readers).
 For more information, please [Contact Support](https://lime-technology.com/contact).
 :end
 
-; Note: June 6, 2022 - 135 missing translations
+; Note: August 25, 2022 - 47 missing translations
