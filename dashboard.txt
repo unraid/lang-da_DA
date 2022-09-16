@@ -70,6 +70,7 @@ Nominal power=
 not received=ikke modtaget
 Only PNG images are allowed=Kun PNG billeder er tilladt!
 Outbound=Udgående
+Output voltage=
 Overall Load=Samlet Belastning
 Parity disk not present=
 Parity disks not present=
@@ -111,4 +112,4 @@ utilization warning=
 View Running Processes=
 Virtual Machines=
 
-; Note: June 6, 2022 - 40 missing translations
+; Note: September 16, 2022 - 41 missing translations
