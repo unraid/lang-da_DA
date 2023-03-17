@@ -1,4 +1,5 @@
 %s An update is available=%s: En opdatering er tilgængelig
+Alert Message=
 anonymous=Anonym
 Author=Udgiver
 Check For Updates=Søg Efter Opdateringer
@@ -19,13 +20,14 @@ Next=Næste
 No plugins installed=Ingen plugins installeret
 No release notes available=Ingen udgivelsesdetaljer tilgængelig
 No response, aborting=Ingen respons, afbryder
-Plugin File=Plugin Fil
 Plugin File Install Errors=Plugin Fil Installations Fejl
+Plugin File=Plugin Fil
 Plugin History=Plugin Historik
 Plugin Update Check=Plugin Opdaterings Tjek
 Plugin=
 Release Notes=Udgivelsesdetaljer
 Remove Plugin=Fjern Plugin
+Remove Selected Plugins=
 remove=fjern
 Select local plugin file=Vælg lokal plugin fil
 Stable=Stabil
@@ -37,4 +39,4 @@ Update Plugin=Opdater Plugin
 Upgrade=Opgrader
 View Release Notes=Vis Udgivelsesdetaljer
 
-; Note: June 6, 2022 - 4 missing translations
+; Note: March 17, 2023 - 6 missing translations
