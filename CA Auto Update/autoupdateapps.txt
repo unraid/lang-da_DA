@@ -1,7 +1,7 @@
 Docker Auto Update Settings=Docker Auto Opdater Indstillinger
 Plugin Auto Update Settings=Plugin Auto Opdater Indstillinger
-Autoupdate ON=
-Autoupdate OFF=
+Autoupdate ON=Autoopdatering TIL
+Autoupdate OFF=Autoopdatering FRA
 Send Notifications On Update=Send Meddelelser Ved Opdatering
 Delay in days before updating applications=Forsinkelse i dage før opdatering af applikationer
 Auto Update All Plugins=Opdater Alle Plugins Automatisk

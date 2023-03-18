@@ -8,7 +8,7 @@ Console=Konsol
 day=dag
 days=dage
 disk image and definition=
-Disks=
+Disks=Diske
 Donate=Doner
 Done=Færdig
 Edit=Rediger
@@ -66,10 +66,10 @@ Missing encryption key=Manglende krypteringsnøgle
 Opening encrypted volumes=Åbning af krypterede bind
 
 ; docker variables
-Container Path=
+Container Path=Docker Sti
 Container Port=
-Container Variable=
-Container Label=
-Container Device=
+Container Variable=Docker Variabel
+Container Label=Docker Etiket
+Container Device=Docker Enhed
 
 ; Note: June 11, 2022 - 32 missing translations
