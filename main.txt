@@ -359,13 +359,13 @@ Wrong key=
 Wrong Pool State=
 xfs_repair status=
 You may not add new disks and also remove existing disks=You may not add new disk(s) and also remove existing disk(s)
-your server=
+your server=din server
 zfs pool status=
 zfs=
 
 ; Sleep plugin translations
-Check this=
-for more information=
+Check this=Tjek dette
+for more information=for mere information
 Make sure your server supports S3 sleep=
 Sleep will immediately put the server in sleep mode=**Sleep** will immediately put the server in sleep mode
 Sleeping=
