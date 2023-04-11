@@ -35,8 +35,9 @@ STALE=FORÆLDET
 Support Thread=
 Uninstall=Afinstaller
 Update All Plugins=Opdater alle plugins
+Update Incompatible=
 Update Plugin=Opdater Plugin
 Upgrade=Opgrader
 View Release Notes=Vis Udgivelsesdetaljer
 
-; Note: March 17, 2023 - 6 missing translations
+; Note: April 11, 2023 - 7 missing translations

@@ -168,6 +168,7 @@ Interface=
 Invalid Username or Password=Ugyldigt Brugernavn eller Adgangskode
 IOMMU=
 is available=er tilgængelig
+Job=
 KB=
 Keep server details anonymous=Hold serveroplysninger anonyme
 Kernel=
@@ -710,7 +711,7 @@ This may indicate a complex network that will not work with this Remote Access s
 We have sent a verifcation email to %s=Vi har sendt en bekræftelsesmail til %s
 You will no longer have access to this server using this url=Du vil ikke længere have adgang til denne server vha. <abbr title="%s" class="italic">dette url</abbr>
 
-; Dynamix File Manager - 2022-05-20
+; Dynamix File Manager - 2023-04-11
 %s year ago=%s år siden
 %s years ago=%s år siden
 Action=Handling
@@ -742,6 +743,7 @@ DEVICE=ENHED
 Download File=Download Fil
 Enter a valid target=
 Expand=Udvid
+File is removed=
 File Manager=Filhåndtering
 File name=Filnavn
 file type=fil type
@@ -755,7 +757,11 @@ in %s folders and %s files=
 Invalid path=Ugyldig sti
 Invalid source=Ugyldig kilde
 Invalid target=
+Job running=
+Jobs=
 Last modified=Sidst ændret
+Minimize=
+more=
 Move Device=Flyt Enhed
 Move File=Flyt Fil
 Move Folder=Flyt Mappe
@@ -766,6 +772,7 @@ New file name=Nyt filnavn
 New folder name=Nyt mappenavn
 New owner=Ny ejer
 New permission=Ny tilladelse
+No jobs scheduled=
 No results found=
 Not allowed to mix disk and user shares=
 Objects to change=
@@ -779,12 +786,15 @@ Owner=Ejer
 Page will be reloaded=Siden vil blive genindlæst
 Parent Directory=
 Permission=Tilladelse
+Queue=
 Removing=Fjernelse
 Rename File=Omdøb Fil
 Rename Folder=Omdøb Mappe
 rename to=omdøb til
 Renaming=Omdøber
 Save=Gem
+Scheduled Jobs=
+Search pattern=
 Search string=
 Search=
 Share name=Share navn
@@ -823,6 +833,7 @@ This renames the selected source=
 Toggle TimeAge display=Toggle Time/Age display
 Total occupied space=
 Updating=Opdaterer
+Upload Error=
 Use sparse option=
 year=år
 years=år
@@ -898,4 +909,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=Din server vil ikke være brugbar, før du køber en registreringsnøgle eller installerer en gratis 30-dages prøvenøgle
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Din Unraid registreringsnøgle er ikke kvalificeret til udskiftning, da den er sortlistet
 
-; Note: March 17, 2023 - 237 missing translations
+; Note: April 11, 2023 - 238 missing translations
