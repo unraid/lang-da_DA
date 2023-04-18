@@ -72,4 +72,4 @@ User Shares=
 Write=Skriv
 You cannot use the following within share names=
 
-; Note: April 18, 2023 - 57 missing translations
+; Note: April 18, 2023 - 56 missing translations
