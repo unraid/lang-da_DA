@@ -7,8 +7,8 @@ No file selected=Ingen fil valgt
 Backup File=Backup Fil
 Editing=Redigerer
 Generally, it is not recommended to change the format=Generelt anbefales det ikke at ændre formatet
-Credits=
 No Backup File Found=Ingen Backup Fil Fundet
 File Format=Fil Format
 
-; Note: June 6, 2022 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Credits=

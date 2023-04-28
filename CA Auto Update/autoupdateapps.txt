@@ -5,17 +5,17 @@ Autoupdate OFF=Autoopdatering FRA
 Send Notifications On Update=Send Meddelelser Ved Opdatering
 Delay in days before updating applications=Forsinkelse i dage før opdatering af applikationer
 Auto Update All Plugins=Opdater Alle Plugins Automatisk
-Update Check Frequency=
-Support=
 Day Of Week=Ugedag
 Day Of Month=Dag i Måneden
 Hour=Time
 Minute=Minut
-Custom cron expression=
-Credits=
 Docker Must Be Enabled For This Module To Operate=Docker Skal Være Aktiveret For At Dette Modul Kan Fungere
-Time to wait for graceful stop before killing=
 Update All Docker Applications=Opdater Alle Docker Applikationer
 Do not overlap with autoupdate=Overlap ikke med autoopdatering
 
-; Note: April 11, 2023 - 5 missing translations
+; Note: April 28, 2023 - 5 missing translations
+Update Check Frequency=
+Support=
+Custom cron expression=
+Credits=
+Time to wait for graceful stop before killing=

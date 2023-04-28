@@ -4,12 +4,10 @@ Process ID=Proces ID
 Open Files=Åbn Filer
 Files that may prevent shutdown=Filer, der kan forhindre nedlukning
 File Name and Path=Filnavn og Sti
-An entry for bash means you have a terminal session open with the working directory on the array=
 If smbd is listed, it means that another computer has a samba share mounted=Hvis smbd er angivet, betyder det, at en anden computer har en samba share monteret
 Files open by Samba usually wont prevent array shutdown=Filer, der åbnes af Samba, forhindrer normalt ikke array-nedlukning
 No open files=Ingen åbne filer
 Kill=Dræb
-Command timed out=
 Cannot get list of open files=Kan ikke hente en liste over åbne filer
 ;
 ; Help
@@ -21,4 +19,6 @@ Cannot get list of open files=Kan ikke hente en liste over åbne filer
 >Klik på 'Program', Proces ID', eller 'Filnavn og Sti' for at ændre sorteringsrækkefølgen.
 :end
 
-; Note: June 6, 2022 - 2 missing translations
+; Note: April 28, 2023 - 2 missing translations
+An entry for bash means you have a terminal session open with the working directory on the array=
+Command timed out=
