@@ -17,7 +17,6 @@ Password=Adgangskode
 Restore default image=Gendan standard billede
 Retype password=Gentag adgangskode
 Save=Gem
-Shares Access=
 Show Hide password=Vis / Skjul adgangskode
 SSH authorized keys=SSH autoriserede nøgler
 Syntax of the key is incorrect=Syntaksen for nøglen er forkert
@@ -26,4 +25,5 @@ Use only lowercase letters, digits, underscores and dashes=Brug kun små bogstav
 User %s has been deleted=Brugeren %s er blevet slettet
 User name=Brugernavn
 
-; Note: August 25, 2022 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Shares Access=

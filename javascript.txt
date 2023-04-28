@@ -1,58 +1,68 @@
-also remove image=
 Apply=Anvend
 Are you sure=Er du sikker?
 Cancel=Annuller
 checking=Tjekker
-Completely REMOVE=
 Console=Konsol
 day=dag
 days=dage
-disk image and definition=
 Disks=Diske
 Donate=Doner
 Done=Færdig
 Edit=Rediger
-Execution error=
 Force Stop=Gennemtving Stop
 Hibernate=Dvale
 Log for=Log for:
-log=
-Logs=
 More Info=Mere Info
 No=Nej
-OK=
-Ok=
-Pause=
 Proceed=Fortsæt
 Project Page=Projektside
 Read Me First=Læs Mig Først
 Remove container=Fjern container
 Remove definition=Fjern definition
-Remove image=
 Remove VM=Fjern VM
 Remove=Fjern
 Restart=Genstart
 Resume=Genoptag
-Start=
-Stop=
-Support=
 Update container=Opdater container
 Update=Opdater
 Updating all Containers=Opdater alle Containere
 Updating the container=Opdaterer containeren
-VNC Remote=
-WebUI=
 Yes, delete it=Ja, slet den!
 Yes, update it=Ja, opdater den!
 Yes=Ja
 
 ; footer messages
 Array Copying=Array Kopiering
-Array Clearing=
 Array Starting=Array Starter
 Array Stopping=Array Stopper
-Mounting disks=
 Retry unmounting user shares=Retry unmounting user share(s)
+Missing encryption key=Manglende krypteringsnøgle
+Opening encrypted volumes=Åbning af krypterede bind
+
+; docker variables
+Container Path=Docker Sti
+Container Variable=Docker Variabel
+Container Label=Docker Etiket
+Container Device=Docker Enhed
+
+; Note: April 28, 2023 - 27 missing translations
+also remove image=
+Completely REMOVE=
+disk image and definition=
+Execution error=
+log=
+Logs=
+OK=
+Ok=
+Pause=
+Remove image=
+Start=
+Stop=
+Support=
+VNC Remote=
+WebUI=
+Array Clearing=
+Mounting disks=
 Spinning up all drives=
 Stale configuration=
 Starting services=
@@ -62,14 +72,4 @@ Stopping Recycle Bin=
 Sync filesystems=
 Unmounting disks=
 Autostart disabled=
-Missing encryption key=Manglende krypteringsnøgle
-Opening encrypted volumes=Åbning af krypterede bind
-
-; docker variables
-Container Path=Docker Sti
 Container Port=
-Container Variable=Docker Variabel
-Container Label=Docker Etiket
-Container Device=Docker Enhed
-
-; Note: April 11, 2023 - 27 missing translations
