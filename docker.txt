@@ -54,8 +54,6 @@ Photos=Fotos
 Productivity=Produktivitet
 Project Page=Projektside
 Read Me First=Læs Mig Først
-ReadWrite - Shared=Read/Write - Shared
-ReadWrite - Slave=Read/Write - Slave
 Remove template=Fjern skabelon
 Removing container=Fjerner container
 Required=Påkrævet
@@ -77,7 +75,7 @@ Variable=Variabel
 wait=vent
 Writable=Skrivbar
 
-; Note: April 28, 2023 - 57 missing translations
+; Note: April 29, 2023 - 59 missing translations
 Autostart=
 Backup=
 Beta=
@@ -112,6 +110,8 @@ Pulling image=
 Read Only - Shared=
 Read Only - Slave=
 Read Only=
+ReadWrite - Shared=Read/Write - Shared
+ReadWrite - Slave=Read/Write - Slave
 rebuild ready=
 rebuilding=
 Removing orphan image=

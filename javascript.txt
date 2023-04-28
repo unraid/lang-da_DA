@@ -35,7 +35,6 @@ Yes=Ja
 Array Copying=Array Kopiering
 Array Starting=Array Starter
 Array Stopping=Array Stopper
-Retry unmounting user shares=Retry unmounting user share(s)
 Missing encryption key=Manglende krypteringsnøgle
 Opening encrypted volumes=Åbning af krypterede bind
 
@@ -45,7 +44,7 @@ Container Variable=Docker Variabel
 Container Label=Docker Etiket
 Container Device=Docker Enhed
 
-; Note: April 28, 2023 - 27 missing translations
+; Note: April 29, 2023 - 28 missing translations
 also remove image=
 Completely REMOVE=
 disk image and definition=
@@ -63,6 +62,7 @@ VNC Remote=
 WebUI=
 Array Clearing=
 Mounting disks=
+Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=
 Stale configuration=
 Starting services=
