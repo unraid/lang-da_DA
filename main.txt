@@ -1,32 +1,22 @@
+A format is NEVER part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted=A format is **NEVER** part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted
 Aborted=Afbrudt
 Action=Handling
 Add Pool=Tilføj Pool
 Add=Tilføj
 All existing data on this device will be OVERWRITTEN when array is Started=Alt eksisterende data på denne enhed vil blive OVERSKREVET, når arrayet startes
 Array Devices=Array Enheder
-Attribute Name=Attributnavn
-Attributes=Egenskaber
-Blacklisted=Sortlistet
-Boot Device=Opstartsenhed
-Boot system in UEFI mode=Bootsystem i UEFI tilstand
-Spinup groups=Spinup group(s)
-will disable the missing disk and then bring the array on-line Install a replacement disk as soon as possible=will disable the missing disk and then bring the array on-line. Install a replacement disk as soon as possible=
-will expand the file system of the data disk if possible then bring the array on-line and start Data-Rebuild=will expand the file system of the data disk; if possible then bring the array on-line and start Data-Rebuild
-your server=din server
-
-; Sleep plugin translations
-Check this=Tjek dette
-for more information=for mere information
-
-; Note: April 29, 2023 - 357 missing translations
-A format is NEVER part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted=A format is **NEVER** part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted
 Array of %s devices=
 Array Operation=
+Attribute Name=Attributnavn
 Attributes not available=
+Attributes=Egenskaber
 auto=
 Autotrim=
 Balance Status=
 Balance=
+Blacklisted=Sortlistet
+Boot Device=Opstartsenhed
+Boot system in UEFI mode=Bootsystem i UEFI tilstand
 btrfs balance status=
 btrfs check status=
 btrfs filesystem df=
@@ -246,6 +236,7 @@ Speed=
 Spin down delay=
 Spin Down=
 Spin Up=
+Spinup groups=Spinup group(s)
 Started, array protected=
 Started, array unprotected=
 Started, clearing=
@@ -319,6 +310,8 @@ will bring the array on-line=
 will copy the parity information to the new parity disk=will copy the parity information to the new *parity* disk
 will create a file system in all Unmountable disks=will create a file system in all **Unmountable** disks
 will delete the encryption keyfile=
+will disable the missing disk and then bring the array on-line Install a replacement disk as soon as possible=will disable the missing disk and then bring the array on-line. Install a replacement disk as soon as possible=
+will expand the file system of the data disk if possible then bring the array on-line and start Data-Rebuild=will expand the file system of the data disk; if possible then bring the array on-line and start Data-Rebuild
 will immediately clear all disk statistics=
 will immediately invoke the Mover=
 will immediately spin down all disks=
@@ -368,11 +361,18 @@ Wrong key=
 Wrong Pool State=
 xfs_repair status=
 You may not add new disks and also remove existing disks=You may not add new disk(s) and also remove existing disk(s)
+your server=din server
 zfs pool status=
 zfs=
+
+; Sleep plugin translations
+Check this=Tjek dette
+for more information=for mere information
 Make sure your server supports S3 sleep=
 Sleep will immediately put the server in sleep mode=**Sleep** will immediately put the server in sleep mode
 Sleeping=
 System in sleep mode=
 This will put the system in sleep mode=
 wiki entry=
+
+; Note: April 29, 2023 - 355 missing translations
