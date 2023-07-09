@@ -100,7 +100,7 @@ Virtual Machines=Virtuelle Maskiner
 VPN Connections=VPN Forbindelser
 Warnings=Advarsel
 
-; Note: April 29, 2023 - 42 missing translations
+; Note: July 9, 2023 - 45 missing translations
 %s used of %s %s %%=%s used of %s (%s %%)
 1 m=
 10 s=
@@ -133,11 +133,14 @@ Processor Information=
 Scheduled parity check is disabled=
 Share count %s with %s cache only and %s encrypted=Share count: %s with %s cache only and %s encrypted
 Shares Information=
+ShowHide All Content=Show/Hide All Content
+ShowHide Content=Show/Hide Content
 SMART health-check failed=
 SMART=
 Started only=
 Temp=
 This may leave an unknown state=
+Tile Management=
 Transmit counters=
 UPS Model=
 UPS status=
