@@ -17,7 +17,9 @@ Cannot get list of open files=Kan ikke hente en liste over åbne filer
 >Klik på 'Program', Proces ID', eller 'Filnavn og Sti' for at ændre sorteringsrækkefølgen.
 :end
 
-; Note: February 10, 2024 - 4 missing translations
+; Note: December 8, 2024 - 6 missing translations
+Enable Kill Button=
+Kill this Process holding files open=
 Open=
 May prevent shutdown=
 An entry for bash means you have a terminal session open with the working directory on the array=
