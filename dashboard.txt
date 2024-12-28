@@ -196,4 +196,4 @@ W=
 Warnings=Advarsel
 ZFS=
 
-; Note: December 28, 2024 - 98 missing translations
+; Note: December 28, 2024 - 95 missing translations
