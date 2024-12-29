@@ -23,8 +23,8 @@ Check free space=
 checking=
 Click to toggle CPU chart=Klik for at vise/skjule CPU graf
 Click to toggle details=Klik for at vise/skjule detaljer
-Clock is synchronized using NTP, time offset is %s %s=
-Clock is synchronized using PTP, time offset is %s %s=
+Clock is synchronized using %s NTP servers, time offset is %s %s=
+Clock is synchronized using %s PTP server, time offset is %s %s=
 Clock is unsynchronized with no NTP servers=
 Clock is unsynchronized with no PTP servers=
 Clock is unsynchronized, free-running clock=
@@ -74,6 +74,7 @@ Go to UPS settings=Gå til UPS indstillinger
 Go to User settings=Gå til Bruger indstillinger
 Go to VM settings=Gå til VM indstillinger
 Go to VPN settings=Gå til VPN indstillinger
+grandmaster=
 Handshake=Håndtryk
 has=har
 healthy=rask
@@ -95,6 +96,7 @@ Last checked on %s=Last checked on **%s**
 Legend=
 Lock sortable items=Lås sorterbare genstande
 Log filesystem=
+master=
 Maximum size=Maksimal størrelse
 Memory dump=
 Memory Utilization=Hukommelsesudnyttelse
@@ -196,4 +198,4 @@ W=
 Warnings=Advarsel
 ZFS=
 
-; Note: December 28, 2024 - 95 missing translations
+; Note: December 29, 2024 - 97 missing translations
