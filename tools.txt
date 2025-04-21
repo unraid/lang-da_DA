@@ -73,6 +73,7 @@ Language=Sprog
 Log file cleared=
 Log size=
 LOG size=
+Log Viewer new=Log Viewer (new)
 Missing Key File=Manglende nøglefil
 Missing Language=Manglende Sprog
 Modprobed config file=Modprobe.d config file
@@ -326,4 +327,4 @@ is not unique (this is common with USB card readers).
 For more information, please [Contact Support](https://lime-technology.com/contact).
 :end
 
-; Note: December 17, 2023 - 101 missing translations
+; Note: April 21, 2025 - 102 missing translations

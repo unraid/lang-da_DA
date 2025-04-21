@@ -147,6 +147,7 @@ Select Case Model=Vælg Kabinet Model
 Select time frame=Vælg tidsramme
 Services=
 Share count %s with %s cache only and %s encrypted=Share count: %s with %s cache only and %s encrypted
+Share count %s with %s public SMB and %s public NFS=Share count: %s with %s public SMB and %s public NFS
 Shares Information=
 Show details=Vis detaljer
 Show Information=Vis Oplysninger
@@ -198,4 +199,4 @@ W=
 Warnings=Advarsel
 ZFS=
 
-; Note: December 29, 2024 - 97 missing translations
+; Note: April 21, 2025 - 98 missing translations

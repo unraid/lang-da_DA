@@ -33,8 +33,9 @@ Update Plugin=Opdater Plugin
 Upgrade=Opgrader
 View Release Notes=Vis Udgivelsesdetaljer
 
-; Note: July 9, 2023 - 8 missing translations
+; Note: April 21, 2025 - 9 missing translations
 Alert Message=
+cannot check=
 Enter URL of remote plugin file or local plugin file=
 I have read the release notes=
 need check=
